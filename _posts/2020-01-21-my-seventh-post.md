@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-with-sidebar
 title: My seventh post
 description: >-
   Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error sunt earum,
@@ -17,6 +17,7 @@ seo:
   keywords:
   hide-from-google: false
 ---
+
 ## Adventures in Bali
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error sunt earum, ab, eum dolore perspiciatis tenetur alias aspernatur impedit fugiat quos esse accusamus nesciunt accusantium labore provident hic ex est?
